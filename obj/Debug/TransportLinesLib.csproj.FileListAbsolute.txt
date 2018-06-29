@@ -1,0 +1,9 @@
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\obj\Debug\TransportLinesLib.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\bin\Debug\TransportLinesLib.dll
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\bin\Debug\TransportLinesLib.pdb
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\obj\Debug\TransportLinesLib.csproj.CopyComplete
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\obj\Debug\TransportLinesLib.dll
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\obj\Debug\TransportLinesLib.pdb
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\TransportLinesLib\obj\Debug\TransportLinesLib.csprojAssemblyReference.cache
